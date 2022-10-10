@@ -1,0 +1,17 @@
+body {
+    width: 50%;
+    margin: auto;
+    background: url(bg3.jpg) center;
+    
+
+    font-family: sans-serif;
+    line-height: 1.5;
+    color: white;
+
+}
+h1 {
+   color: rgb(161 30 30);
+}
+h2 {
+    color: blue;
+}
